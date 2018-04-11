@@ -1,0 +1,10 @@
+app/src/main/java/edu/umich/eecs/rtcl/carlab/incubator/Task*java
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
