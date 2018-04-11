@@ -14,7 +14,7 @@ import edu.umich.eecs.rtcl.carlab.Constants;
 import edu.umich.eecs.rtcl.carlab.DataMarshal;
 
 public abstract class App implements IApp {
-    CLDataProvider cl;
+    protected CLDataProvider cl;
     protected Context context;
     Activity parentActivity;
     boolean uploadData = true;
