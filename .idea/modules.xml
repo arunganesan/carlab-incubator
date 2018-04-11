@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Incubator.iml" filepath="$PROJECT_DIR$/Incubator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/carlab/carlab.iml" filepath="$PROJECT_DIR$/carlab/carlab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carlab-incubator.iml" filepath="$PROJECT_DIR$/carlab-incubator.iml" />
     </modules>
   </component>
 </project>
